@@ -4,7 +4,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Build and Runtime Requirements
 
-Donwload project and open whit XCode
+Download project and open whit XCode
 
 + XCode 11 or later
 + iOS 13.1 or later
